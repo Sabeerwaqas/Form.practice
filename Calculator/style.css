@@ -1,0 +1,11 @@
+section{
+    margin: 0 auto;
+    width: 30%;
+}
+
+
+#screen-section{
+    background-color: lightcoral;
+    width: 100%;
+    height: 10vh;
+}
